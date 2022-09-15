@@ -25,4 +25,4 @@ Describe any challenges encountered while building the app." width=250><br>
 Describe any challenges encountered while building the app." width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+When building the app, I fixed many errors. The only problem was that the app icon only had one empty icon, and not multiple of them. Overall, I did pretty well for the first time on a VM (which took me 2 days to complete).
